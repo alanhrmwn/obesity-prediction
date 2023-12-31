@@ -364,3 +364,5 @@ print(classification_report(y_test,y_pred))
 ![](image/report.png)
 
 ## Deployment
+[Obesity Prediction App](https://obesity-prediction-alan.streamlit.app/) <br>
+![image](https://github.com/alanhrmwn/obesity-prediction/assets/148874522/c47a31e4-e3ae-4256-8c18-a298403af17e)
